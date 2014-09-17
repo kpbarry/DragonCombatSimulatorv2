@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\bin\Debug\DragonClassSlayer.exe.config
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\obj\Debug\DragonClassSlayer.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\bin\Debug\DragonClassSlayer.exe
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\bin\Debug\DragonClassSlayer.pdb
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\obj\Debug\DragonClassSlayer.exe
+C:\Users\Technologist\Documents\GitHub\DragonClassSlayer1\DragonClassSlayer\DragonClassSlayer\obj\Debug\DragonClassSlayer.pdb
